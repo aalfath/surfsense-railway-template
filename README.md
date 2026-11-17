@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/surfsense-1?utm_medium=integration&utm_source=button&utm_campaign=surfsense)
+
 # SurfSense on Railway
 
 A Railway template for [SurfSense](https://github.com/MODSetter/SurfSense), the

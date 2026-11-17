@@ -3,6 +3,10 @@
 Breaking changes come first in each entry. Deployers get an "update available"
 notice in Railway when a change lands on `main`, and choose when to apply it.
 
+## Unreleased (2026-11-17)
+
+- README: Deploy on Railway button for the published template `surfsense-1`. No change to the deployed service.
+
 ## 2.3.1 (2026-11-17)
 
 - First release of the Railway template: SurfSense 2.3.1
